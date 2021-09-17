@@ -6,6 +6,16 @@
 [![](https://img.shields.io/badge/QGSS_2021-Quantum_Machine_Learning-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://media-exp1.licdn.com/dms/image/C4E2DAQE9yjYCjOP0Aw/profile-treasury-document-cover-images_480/0/1630106811611?e=1630436400&v=beta&t=6_wbcud3dISKGGR6RM5xCiuSq6c9Ga6V5PWai6QyL5o)
 ---
 
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdielgv163&count_private=true&show_icons=true&theme=dark)
+
+<br>
+
+---
+
+
+
 <h2> Encuentrame en: </h2> 
 
 <br>
