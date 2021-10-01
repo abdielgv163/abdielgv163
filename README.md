@@ -24,7 +24,7 @@
 
 <br>
 
-[![Twitter: AbdielGuerrero](https://img.shields.io/twitter/follow/AbdielGuerrer20?style=social)](https://twitter.com/AbdielGuerrer20) [![Linkedin:Abdiel Guerrero](https://img.shields.io/badge/-AbdielGuerrero-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdiel-guerrero-162-gv/)](https://www.linkedin.com/in/abdiel-guerrero-162-gv/) [![GitHub abdielgv163](https://img.shields.io/github/followers/abdielgv163?label=follow&style=social)](https://github.com/abdielgv162)  <a href="https://platzi.com/p/abdiel-guerrero/"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" />
+[![Twitter: AbdielGuerrero](https://img.shields.io/twitter/follow/AbdielGuerrer20?style=social)](https://twitter.com/AbdielGuerrer20) [![Linkedin:Abdiel Guerrero](https://img.shields.io/badge/-AbdielGuerrero-white?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdiel-guerrero-162-gv/)](https://www.linkedin.com/in/abdiel-guerrero-162-gv/) [![GitHub abdielgv163](https://img.shields.io/github/followers/abdielgv163?label=follow&style=social)](https://github.com/abdielgv162)  <a href="https://platzi.com/p/abdiel-guerrero/"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" />
 </a>
 
 
