@@ -14,7 +14,7 @@
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdielgv163&count_private=true&show_icons=true&theme=midnight-purple)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdielgv163&count_private=true&show_icons=true&theme=jolly)
 
 
 ---
