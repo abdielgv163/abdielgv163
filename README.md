@@ -14,14 +14,14 @@
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdielgv163&count_private=true&show_icons=true&theme=jolly)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdielgv163&count_private=true&show_icons=true&theme=midnight-purple)
 
 
 ---
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdielgv163&repo=Quantum_Computing&theme=midnight-purple)](https://github.com/abdielgv163/Quantum_Computing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdielgv163&repo=Machine-Learning-and-DS&theme=midnight-purple)](https://github.com/abdielgv163/Machine-Learning-and-DS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdielgv163&repo=Quantum_Computing&theme=jolly)](https://github.com/abdielgv163/Quantum_Computing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdielgv163&repo=Machine-Learning-and-DS&theme=jolly)](https://github.com/abdielgv163/Machine-Learning-and-DS)
 ---
 
 
