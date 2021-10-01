@@ -1,6 +1,6 @@
 
 
-[![](https://img.shields.io/badge/Quantum_Challenge_     _2020-Foundational_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
+[![](https://img.shields.io/badge/Quantum_Challenge__2020-Foundational_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
 [![](https://img.shields.io/badge/Qubit_x_Qubit-Intro_to_Quantum_Computing-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://i.imgur.com/QvXj3yW.png)
 
 [![](https://img.shields.io/badge/Quantum_Challenge_2021-Intermediate_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.credly.com/badges/6d2fd6d7-df82-4160-a148-67f2ecadc662/public_url)
