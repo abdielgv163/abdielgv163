@@ -19,7 +19,7 @@
 ---
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdielgv163&repo=Quantum_Computing-readme-stats)](https://github.com/abdielgv163/Quantum_Computing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdielgv163&repo=Quantum_Computing)](https://github.com/abdielgv163/Quantum_Computing)
 
 
 ---
