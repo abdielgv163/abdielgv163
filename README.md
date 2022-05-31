@@ -24,7 +24,7 @@
 
 
 
-<h2> Encuentrame en: </h2> 
+<h2> Social Media: </h2> 
 
 <br>
 
