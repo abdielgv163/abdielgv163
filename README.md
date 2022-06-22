@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Qubit_x_Qubit-Intro_to_Quantum_Computing-informational??style=plastic&logo=&logoColor=white&color=black)](https://i.imgur.com/QvXj3yW.png)<br>
 [![](https://img.shields.io/badge/QGSS_2021-Quantum_Machine_Learning-informational??style=plastic&logo=&logoColor=white&color=black)](https://i.imgur.com/5GpYnGh.png)
 [![](https://img.shields.io/badge/Quantum_Challenge_Fall_2021-Advanced_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.credly.com/badges/a56e7745-a30f-4b05-b8b6-02ed01ac0424/public_url)
-![](https://img.shields.io/badge/IBM_Quantum_Spring_Challenge_2022-Advanced_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.credly.com/badges/251575f7-9cad-48db-bc56-bf406135a60f/public_url)
+[![](https://img.shields.io/badge/IBM_Quantum_Spring_Challenge_2022-Advanced_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.credly.com/badges/251575f7-9cad-48db-bc56-bf406135a60f/public_url)
 
 ---
 
